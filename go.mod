@@ -1,4 +1,4 @@
-module github.com/sasakitimaru/graphql-sample
+module github.com/sasakitimaru/git_gql
 
 go 1.21.0
 
