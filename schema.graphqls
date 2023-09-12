@@ -15,7 +15,7 @@ type User {
 }
 
 type Query {
-  todos: [Todo!]!
+  User (name: String!): User @Authenticated
 }
 
 input NewTodo {
